@@ -7,7 +7,7 @@ Esperimento editoriale: **partire da un articolo derivato dal transcript di una 
 Il punto della repo non è il PDF in sé. È il **prompt + workflow** che ha portato dal testo sorgente a un oggetto editoriale coerente.
 
 **Output finale:** *EMANUELE BDC meets AI — 9 CONVINZIONI SULL’AI*  
-**Autore:** Emanuele M. Barboni Dalla Costa  
+**Autore:** Emanuele BDC  
 **Crediti:** Made with ♥ in Milan by Emanuele BDC  
 **PDF:** [assets/emanuele-bdc-meets-ai.pdf](assets/emanuele-bdc-meets-ai.pdf)
 
@@ -172,7 +172,7 @@ Fonte: articolo già allegato sulle nove convinzioni sull'AI
 Reference: BRUTALIST EDITORIAL LUXURY
 Magazine: EMANUELE BDC meets AI
 Titolo: 9 CONVINZIONI SULL’AI
-Autore: Emanuele M. Barboni Dalla Costa
+Autore: Emanuele BDC
 Crediti: Made with ♥ in Milan by Emanuele BDC
 Pagine: 6
 Output: A4 + HTML
@@ -299,6 +299,6 @@ Il magazine è il risultato visibile. Il vero esperimento è il processo.
 
 ## Crediti
 
-**Emanuele M. Barboni Dalla Costa**  
+**Emanuele BDC**  
 Made with ♥ in Milan by Emanuele BDC  
 [linktr.ee/emaf205](https://linktr.ee/emaf205)
